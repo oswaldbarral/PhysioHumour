@@ -201,32 +201,3 @@ splitFeatures <- function (features) {
 
 
 
-
-
-
-
-
-
-
-
-#########
-##########
-#########
-##########
-# ########################### FOR DEBUG PURPOSES!!
-# ###### Set the File paths
-# ROOT_DIR <<-"/Users/barralme/Documents/MindSee/Physio9GAG/Data/Prediction/Scripts/For Paper(Final)"
-# RAW_DATA_DIR <<- "/Users/barralme/Documents/MindSee/Physio9GAG/Data"
-# AFFECT_DATA_DIR <<- "/Users/barralme/Documents/MindSee/Physio9GAG/Data/Camera/Features"
-# SEPARATOR <<- "/"
-# #######
-# 
-# ####Source auxiliary functions
-# source (paste(ROOT_DIR,"peak_detector.R",sep=SEPARATOR))
-# source (paste(ROOT_DIR,"InputOutput_Functions.R",sep=SEPARATOR))
-# generateFeatures ("P01", "Physiology", FALSE,RAW_DATA_DIR,SEPARATOR)
-# #############
-
-
-
-
